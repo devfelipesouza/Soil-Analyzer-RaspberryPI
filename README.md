@@ -1,5 +1,9 @@
 ## Soil-Analyzer-RaspberryPI
 
+
+
+Sistema feito para controle de umidade do solo usando Raspberry e banco de dados MySQL
+
 ### Componentes utilizados
 
 - Raspberry PI 2
