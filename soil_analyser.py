@@ -178,7 +178,7 @@ try:
 
       
         #Faz com que o loop seja a cada 1 segundo   
-        time.sleep(2);     
+        time.sleep(1);     
    
 except KeyboardInterrupt:  
   print("Finalizado!")
